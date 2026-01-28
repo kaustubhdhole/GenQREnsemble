@@ -13,5 +13,12 @@ Conference: European Conference on Information Retrieval, ECIR 2024
   year={2024},
   organization={Springer}
 }
+@article{dhole2024generative,
+  title={Generative query reformulation using ensemble prompting, document fusion, and relevance feedback},
+  author={Dhole, Kaustubh D and Chandradevan, Ramraj and Agichtein, Eugene},
+  journal={arXiv preprint arXiv:2405.17658},
+  year={2024}
+}
+
 
 ```
